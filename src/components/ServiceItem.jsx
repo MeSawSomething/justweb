@@ -2,7 +2,7 @@ import React from "react";
 
 function ServiceItem({ title, icon, description }) {
   return (
-    <a href="https://miso-astro-blog.vercel.app/">
+    <a href="https://miso-astro-blog.vercel.app/" target="_blank">
       <div className="bg-slate-300 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 hover:-translate-y-2 transform transition p-5 rounded-md">
         <div className="text-gray-800 dark:text-gray-300 w-6 h-6 mb-3">
           {icon}
