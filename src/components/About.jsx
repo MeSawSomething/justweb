@@ -23,7 +23,8 @@ function About() {
         </a>
       </div>
       <img
-        src="/assets/img/profile.jpeg"
+        src="https://github.com/MeSawSomething.png/"
+        width="100"
         alt="Miso"
         className="w-full md:w-5/12 rounded-lg object-fit py-1"
       />
